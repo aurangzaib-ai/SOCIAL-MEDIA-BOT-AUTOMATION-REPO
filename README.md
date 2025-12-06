@@ -1,2 +1,2 @@
-# SOCIAL MEDIA BOT AUTOMATION REPO
+# social media bot
 
